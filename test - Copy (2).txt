@@ -4,3 +4,9 @@ new testing here
 
 Matt2's test!
 
+I just watched your youtube videos on creating and navigating repositories on GIT and merging local Git repositories
+I'm learning/updating my knowledge base and I plan on placing some work on Git Hub soon to continue learning
+Thank you for the edutainment, Mr. Hanselman.
+No need to commit this XD.
+
+Thanks for the compliment!
